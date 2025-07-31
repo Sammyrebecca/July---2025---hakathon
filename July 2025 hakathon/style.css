@@ -1,0 +1,93 @@
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f7fa;
+  color: #181717;
+  line-height: 1.6;
+}
+
+.section {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+  margin-bottom: 0px; /* remove bottom margin for spacing */
+}
+
+h1 {
+  color: #06213f;
+  text-align: center;
+}
+
+h2 {
+  color: #0c2f57;
+  text-align: center;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #17569e;
+  color: rgb(255, 255, 255);
+}
+
+
+.profile-img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  padding: 10px;
+  background-color: hsl(0, 67%, 68%);
+  display: block;
+  margin: 20px auto;
+}
+ 
+/* Center all paragraphs */
+p {
+  text-align: center;
+}
+
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #37106e;
+  padding: 10px 0;
+}
+
+.resume button {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 20px;
+  background-color: #f4f7fa;
+}
+
+.section {
+  text-align: center;
+
+}
+form input, form textarea {
+  width: 100%;
+  max-width: 500px;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+form button {
+  padding: 10px 20px;
+  background-color: #007BFF;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #1e2a38;
+  color: white;
+}

@@ -1,1 +1,1 @@
-# July---2025---hakathon
+# About my first project on Git Hub
